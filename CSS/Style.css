@@ -1,0 +1,47 @@
+body {
+    font-size: 18px;
+}
+
+footer {
+    font-size: 20px;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    background-color: #A52A2A;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+    color: #1f11e0; 
+}
+
+.border {
+    border-style: dashed;
+}
+
+ul li {
+    display: inline;
+}
+
+.auto {
+    text-align: center;
+}
+
+.blue {
+    color: #1f11e0;
+}
+
